@@ -9,7 +9,7 @@ This project is both a **language** and a **research playground**.
 
 ---
 
-## ✨ Goals
+## Goals
 
 - Minimal but expressive core
 - Declarative *and* imperative programming styles
@@ -19,7 +19,7 @@ This project is both a **language** and a **research playground**.
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 Most languages hard-code their rules.
 
@@ -36,7 +36,7 @@ This makes noesis ideal for:
 
 ---
 
-## 🧩 Key Features
+## Key Features
 
 - Layered language system (meta → core → user)
 - Grammar-driven design (EBNF-inspired)
@@ -46,7 +46,7 @@ This makes noesis ideal for:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 noesis/
