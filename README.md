@@ -62,8 +62,8 @@ noesis/
 
 > Licenses may be subject to changes during this project's development.
 
-This project is licenses under the:
+This project is licensed under the:
 - MIT License
 - CC-BY (Attribution) License v4.0
 
-For understand our motives, refer to ([LICENSING.md](LICENSING.md))
+For details and intent, refer to ([LICENSING.md](LICENSING.md))
