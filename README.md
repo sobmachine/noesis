@@ -51,7 +51,6 @@ This makes noesis ideal for:
 ```text
 noesis/
 ├── src/py          # Interpreter source (in Python 3.13)
-├── src/c           # Interpreter source (in C)
 ├── docs/           # Documentation and design notes
 ├── examples/       # Example programs
 ├── grammar/        # Grammar and language definitions
